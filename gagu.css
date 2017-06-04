@@ -1,0 +1,89 @@
+.jumbo {
+  background-image: url('stars.jpg');
+  image-resolution: from-image;
+  height: 500px;
+  jumbotron;
+  opacity: 1.0;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+
+.hg {
+  opacity: 1;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.gagu {
+  font-size: 450px;
+}
+
+.picture1 {
+  text-align: center;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.picture1:hover {
+  text-align: center;
+  opacity: 1.0;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.servers {
+  text-align: center;
+}
+
+.picture2 {
+  text-align: center;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.picture2:hover {
+  text-align: center;
+  opacity: 1.0;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+hr {
+  opacity: 1.0;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.add {
+  color: red;
+  font-size: 50px;
+  font-family: fantasy;
+  text-align: left;
+}
+
+.server {
+  color: #2defab;
+  font-size: 60px;
+  font-family: monospace;
+  text-allign: right;
+}
+
+.picture3 {
+  text-align: right;
+}
+
+.button1 {
+  text-align: right;
+  font-family: sans-serif;
+  color: blue;
+  background-color: green;
+  border: black;
+  opacity: 2.0;
+  font-size: 25px;
+  position: relative;
+}
+
+.button2 {
+    text-align: left;
+    font-family: sans-serif;
+    color: red;
+    background-color: yellow;
+    border: black;
+    opacity: 2.0;
+    font-size: 25px;
+    position: relative;
+  }
